@@ -16,7 +16,7 @@ For hosting and deployment on Azure, see <https://docs.microsoft.com/en-us/aspne
 
 ## !important
 
-Use `npm start` to launch the Angular CLI development server, not `ng serve`, so that the configuration in `package.json` is respected. To pass additional parameters to the Angular CLI server, add them to the relevant scripts line in your `package.json` file.
+If you don't want to run NG from .NET, use `npm start` to launch the Angular CLI development server, not `ng serve`, so that the configuration in `package.json` is respected. To pass additional parameters to the Angular CLI server, add them to the relevant scripts line in your `package.json` file.
 
 ## Other
 
