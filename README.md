@@ -2,7 +2,7 @@
 
 This project was originally created with `dotnet new angular`. See [Use the Angular project template with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-2.2&tabs=visual-studio) for details.
 
-However, as of the date I created this project, it was using [Angular v6](https://v6.angular.io). I've simply upgraded it to use [Angular v7](https://angular.io/).
+However, as of the date I created this project, it was using [Angular v6](https://v6.angular.io). I've upgraded it to use [Angular v7](https://angular.io/), and included [PrimeNG](https://www.primefaces.org/primeng/#/) for UI.
 
 Assuming you want to publish and host your app somehwere, check out [Publish an ASP.NET Core app to Azure with Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.2).
 
@@ -18,12 +18,9 @@ For hosting and deployment on Azure, see <https://docs.microsoft.com/en-us/aspne
 
 If you don't want to run NG from .NET, use `npm start` to launch the Angular CLI development server, not `ng serve`, so that the configuration in `package.json` is respected. To pass additional parameters to the Angular CLI server, add them to the relevant scripts line in your `package.json` file.
 
-## Other
-
-This project also includes [PrimeNG](https://www.primefaces.org/primeng/#/) for UI.
-
-## Helpful References
+## Resources
 
 * [.NET Core 2.2](https://docs.microsoft.com/en-us/dotnet/core/)
 * [Angular](https://angular.io/)
-* [Short, and highly relevant, series on Angular + .NET + Azure](https://blog.jeremylikness.com/get-started-with-angular-on-net-core-2-1-part-one-2effcfe8fae9)
+* [Angular CLI](https://github.com/angular/angular-cli)
+* [Short and relevant series on Angular + .NET + Azure](https://blog.jeremylikness.com/get-started-with-angular-on-net-core-2-1-part-one-2effcfe8fae9)
