@@ -23,4 +23,5 @@ If you don't want to run NG from .NET, use `npm start` to launch the Angular CLI
 * [.NET Core 2.2](https://docs.microsoft.com/en-us/dotnet/core/)
 * [Angular](https://angular.io/)
 * [Angular CLI](https://github.com/angular/angular-cli)
+* [PrimeNG](https://www.primefaces.org/primeng/#/)
 * [Short and relevant series on Angular + .NET + Azure](https://blog.jeremylikness.com/get-started-with-angular-on-net-core-2-1-part-one-2effcfe8fae9)
