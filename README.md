@@ -6,6 +6,11 @@ However, as of the date I created this project, it was using [Angular v6](https:
 
 Assuming you want to publish and host your app somehwere, check out [Publish an ASP.NET Core app to Azure with Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.2).
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/stevewithington/ng-dotnet)
+[![GitHub stars](https://img.shields.io/github/stars/stevewithington/ng-dotnet)](https://github.com/stevewithington/ng-dotnet/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/stevewithington/ng-dotnet)](https://github.com/stevewithington/ng-dotnet/issues)
+[![GitHub forks](https://img.shields.io/github/forks/stevewithington/ng-dotnet)](https://github.com/stevewithington/ng-dotnet/network)
+
 ## dotnet run
 
 Once you have [.NET Core command-line interface (CLI) tools](https://docs.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x) installed, from your command line, you should be able to `dotnet run` and see the app running in your browser.
@@ -25,3 +30,7 @@ If you don't want to run NG from .NET, use `npm start` to launch the Angular CLI
 * [Angular CLI](https://github.com/angular/angular-cli)
 * [PrimeNG](https://www.primefaces.org/primeng/#/)
 * [Short and relevant series on Angular + .NET + Azure](https://blog.jeremylikness.com/get-started-with-angular-on-net-core-2-1-part-one-2effcfe8fae9)
+
+## License
+
+[MIT](LICENSE.md)
